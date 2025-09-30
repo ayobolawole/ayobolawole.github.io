@@ -1,11 +1,11 @@
 ---
-title: "BEA213 Data Analytics for Accounting"
+Title: "BEA213 Data Analytics for Accounting"
 collection: teaching and coordination
-type: "Undergraduate course"
-permalink: /https://www.utas.edu.au/courses/tsbe/units/bea213-data-analytics-for-accounting
+Type: "Undergraduate course"
+Permalink: /https://www.utas.edu.au/courses/tsbe/units/bea213-data-analytics-for-accounting
 venue: "University of Tasmania, Department of Finance"
-date: 2025
-location: "Hobart, Australia"
+Date: 2025
+Location: "Hobart, Australia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
