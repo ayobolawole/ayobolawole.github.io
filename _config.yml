@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en- AU"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Ayobolawole Ogundipe / Site Title"
 title_separator          : "-"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ayobolawole Ogundipe"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hobart, Australia"
+  employer         : "University of Tasmania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ayobolawole@gmail.com" 
 
   # Academic websites
   academia         : # URL
