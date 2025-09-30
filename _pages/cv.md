@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics and Finance, University of Tasmania, Australia, 2024
+* M.Sc. in Accounting and Finance (Higher Distinction), Kocaeli University, Turkey, 2020
+* M.Sc. in Accounting, University Ilorin, Nigeria, 2019
+* B.Sc. in Accounting (First Class), Ekiti State University, Nigeria, 2014
 
 Work experience
 ======
